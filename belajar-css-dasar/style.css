@@ -1,0 +1,47 @@
+#table-siswa {
+  border-collapse: collapse;
+  border-width: 1px;
+  border-style: solid;
+  border-color: white;
+  margin: auto;
+  background: burlywood;
+}
+
+#table-siswa h3 {
+  font-size: 22px;
+}
+
+#table-siswa th {
+  padding: 20px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: white;
+}
+
+#table-siswa td {
+  padding: 20px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: white;
+}
+
+.link {
+  color: red;
+}
+
+.navigation {
+  margin: 30px;
+}
+
+.navigation a {
+  color: red;
+  background: burlywood;
+  padding: 20px;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url('https://images.unsplash.com/photo-1616560334462-2bd984d2a00a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
